@@ -1,2 +1,2 @@
-# sor.bz
-sor.bz | best url shortener, simple, easy, and free!
+# Sor.bz
+[Sor.bz | Best URL Shortener, Simple, Easy, and Free!](https://sor.bz)
